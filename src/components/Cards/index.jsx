@@ -11,16 +11,16 @@ function Cards() {
           details={["500 GB Storage", "1 Granted User", "Send up to 2 GB"]}
         />
         <Card
-          image="single.png"
-          title="Single User"
-          price="$149"
-          details={["500 GB Storage", "1 Granted User", "Send up to 2 GB"]}
+          image="double.png"
+          title="Partnership"
+          price="$199"
+          details={["1 TB Storage", "3 User Allowed", "Send up to 10 GB"]}
         />
         <Card
-          image="single.png"
-          title="Single User"
-          price="$149"
-          details={["500 GB Storage", "1 Granted User", "Send up to 2 GB"]}
+          image="triple.png"
+          title="Group Account"
+          price="$299"
+          details={["5 TB Storage", "10 User Allowed", "Send up to 20 GB"]}
         />
       </div>
     </div>
