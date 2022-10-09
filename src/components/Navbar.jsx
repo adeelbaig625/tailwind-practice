@@ -29,11 +29,21 @@ function Navbar() {
           DataCo.
         </h1>
         <ul className="uppercase p-4">
-          <li className="p-4 border-b border-gray-600">Home</li>
-          <li className="p-4 border-b border-gray-600">Company</li>
-          <li className="p-4 border-b border-gray-600">Resources</li>
-          <li className="p-4 border-b border-gray-600">About</li>
-          <li className="p-4">Contact</li>
+          <li className="p-4 border-b font-medium border-gray-600 cursor-pointer">
+            Home
+          </li>
+          <li className="p-4 border-b font-medium border-gray-600 cursor-pointer">
+            Company
+          </li>
+          <li className="p-4 border-b font-medium border-gray-600 cursor-pointer">
+            Resources
+          </li>
+          <li className="p-4 border-b font-medium border-gray-600 cursor-pointer">
+            About
+          </li>
+          <li className="p-4 font-medium border-gray-600 cursor-pointer">
+            Contact
+          </li>
         </ul>
       </div>
     </div>
