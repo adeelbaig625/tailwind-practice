@@ -9,11 +9,11 @@ function Navbar() {
     <div className="text-white flex justify-between items-center h-24 px-4 mx-auto max-w-[1240px]">
       <h1 className="w-full text-3xl font-bold text-[#00df9a]">DataCo.</h1>
       <ul className={"hidden md:flex"}>
-        <li className="p-4">Home</li>
-        <li className="p-4">Company</li>
-        <li className="p-4">Resources</li>
-        <li className="p-4">About</li>
-        <li className="p-4">Contact</li>
+        <li className="p-4 font-medium">Home</li>
+        <li className="p-4 font-medium">Company</li>
+        <li className="p-4 font-medium">Resources</li>
+        <li className="p-4 font-medium">About</li>
+        <li className="p-4 font-medium">Contact</li>
       </ul>
       <div onClick={handleNav} className="cursor-pointer block md:hidden">
         {nav ? <AiOutlineClose size={25} /> : <AiOutlineMenu size={25} />}
