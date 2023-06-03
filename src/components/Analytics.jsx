@@ -11,10 +11,14 @@ function Analytics() {
             Manage Data Analytics Centrally
           </h1>
           <p className="font-medium text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae magnam
-            eligendi recusandae repellat? Quas quae distinctio repellendus
-            nostrum voluptatum id esse! Ipsum obcaecati nesciunt, aut nemo
-            repellat vel. Officiis, praesentium!
+            Data Co's Analytics Dashboard is your go-to platform for gaining
+            valuable insights from your data. With our intuitive and
+            user-friendly interface, you can easily visualize, analyze, and
+            interpret complex data sets. Whether you're tracking key performance
+            indicators, monitoring customer behavior, or making data-driven
+            decisions, our dashboard provides the tools you need to unlock the
+            power of your data. Transform raw data into actionable insights and
+            drive your business forward with Data Co's Analytics Dashboard.
           </p>
           <button className="bg-black w-[160px] rounded-md font-medium my-6 py-2 text-[#00df9a]">
             Get Started

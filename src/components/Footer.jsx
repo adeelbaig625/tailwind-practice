@@ -10,9 +10,10 @@ function Footer() {
       <div>
         <h1 className="w-full text-2xl font-bold text-[#00df9a]">Data Co.</h1>
         <p className="py-4">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta
-          doloribus ea quae laboriosam tempora! Eos eum non id veniam qui,
-          laudantium ullam voluptatum esse? Placeat ut temporibus esse magni ad.
+          Unleashing the Power of Data for Business Growth. Experience the
+          difference with our comprehensive data solutions, analytics, and
+          visualization tools. Make informed, data-driven decisions and stay
+          ahead of the competition with Data Co.
         </p>
         <div className="flex mdw-[75%] my-6">
           <FaFacebookSquare size={30} />
